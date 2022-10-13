@@ -51,13 +51,6 @@ function App() {
               HOME
               <br />
             </Text>
-            <Text
-              as={"span"}
-              color={"white"}
-              fontSize={{ base: "4xl", sm: "4xl", md: "8xl" }}
-            >
-              HOOKAH
-            </Text>
           </Heading>
           <Text
             as={"span"}
