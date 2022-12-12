@@ -37,10 +37,19 @@ function Home() {
           <Image src={logo} width={"70%"} />
           <Text
             as={"span"}
-            color={"whiteAlpha.700"}
-            fontSize={{ base: "3xl", sm: "4xl", md: "3xl" }}
+            color={"whiteAlpha.800"}
+            fontSize={{ base: "3xl", sm: "4xl", md: "4xl" }}
           >
-            Um novo conceito de essências está chegando em Campo Largo
+            Chegou um novo conceito de essências em Campo Largo
+          </Text>
+          <Text
+            as={"span"}
+            color={"whiteAlpha.700"}
+            fontSize={{ base: "2xl", sm: "4xl", md: "3xl" }}
+            marginBottom={"5"}
+          >
+            Você vai encontrar as melhores marcas: Tangiers, FML, Haze, Al
+            fakher, Fumari
           </Text>
           <Text
             as={"span"}
@@ -48,7 +57,7 @@ function Home() {
             fontSize={{ base: "2xl", sm: "4xl", md: "2xl" }}
             marginBottom={"10"}
           >
-            Visite nosso perfil e fique por dentro de todas as novidades
+            Visite nosso perfil/loja e fique por dentro de todas as novidades
           </Text>
           <Stack
             width={"100%"}
