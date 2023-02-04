@@ -86,7 +86,7 @@ function Home() {
               maxW={"md"}
               leftIcon={<BsShop />}
               onClick={() =>
-                (window.location.href = "https://premiumhomehookah.kyte.site/")
+                (window.location.href = "https://premiumhomehookah.wbuy.com.br/")
               }
             >
               <Center>
